@@ -32,7 +32,6 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like Exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Building, Movies, or Anything**. <br>
 - ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) Find me on WhatsApp : **[Click Here](https://wa.me/917319570976?text=Hello%20Sir%20)**<br>
-- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) Mafia ﾉ Onespot#5030
 <hr></hr>
 
 
