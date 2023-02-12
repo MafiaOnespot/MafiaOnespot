@@ -1,7 +1,27 @@
-<div align="center">
+<div align="center" width="50">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mafiaonespot&label=Profile%20views&color=0e75b6&style=flat" alt="mafiaonespot" /> </p>
+
+<p><strong> ʜᴇʏ ᴛʜᴇʀᴇ ᴍʏꜱᴇʟꜰ ꜱᴏᴍɴᴀᴛʜ ᴘᴀᴛɪ ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+<br>
+<br><br> 
+ᴠɪʙɪɴɢ ᴛᴏ : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
+
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+</div>
+
+
+
+  
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mafiaonespot&show_icons=true&locale=en" alt="mafiaonespot" /></p>
 
 - 🌱 I’m currently learning **Computer Application**
