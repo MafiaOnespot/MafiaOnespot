@@ -34,9 +34,9 @@
 - ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) Find me on WhatsApp : **[Click Here](https://wa.me/917319570976?text=Hello%20Sir%20)**<br>
 <hr></hr>
 
+<h4><strong> 
 
-
-# ʟᴀɴɢᴜᴀɢᴇ & ᴛᴏᴏʟ
+ʟᴀɴɢᴜᴀɢᴇ & ᴛᴏᴏʟ
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -64,19 +64,21 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-# ꜱᴛᴜᴅʏ ᴍᴀᴛᴇʀɪᴀʟ
+
+<h4><strong> 
+
+ꜱᴛᴜᴅʏ ᴍᴀᴛᴇʀɪᴀʟ
+
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Coding Ninja](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-
-# ᴡᴏʀᴋꜱᴘᴀᴄᴇ ꜱᴘᴇᴄ
-![laptop](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GTX](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 
 
-# ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
+
+ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
+
 <p align="left">
 <a href="https://twitter.com/mafiaonespot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mafiaonespot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/somnathpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnathpati" height="30" width="40" /></a>
