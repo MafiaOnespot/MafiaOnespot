@@ -31,8 +31,6 @@
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **JavaScript & WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like Exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Building, Movies, or Anything**. <br>
-- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) Find me on WhatsApp : **[Click Here](https://wa.me/917319570976?text=Hello%20Sir%20)**<br>
-<hr></hr>
 
 <h4><strong> 
 
