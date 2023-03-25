@@ -65,18 +65,6 @@
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 
-<h4><strong> 
-
-ꜱᴛᴜᴅʏ ᴍᴀᴛᴇʀɪᴀʟ
-
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Coding Ninja](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-
-
-
  ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
 
 <p align="left">
