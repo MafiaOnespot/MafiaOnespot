@@ -34,7 +34,7 @@
 
 <h4><strong> 
 
-ʟᴀɴɢᴜᴀɢᴇ & ᴛᴏᴏʟ
+**ʟᴀɴɢᴜᴀɢᴇ & ᴛᴏᴏʟ**
 
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -54,7 +54,7 @@
 
 
 
- ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
+ **ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ** 
 
 <p align="left">
 <a href="https://twitter.com/mafiaonespot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mafiaonespot" height="30" width="40" /></a>
